@@ -4,4 +4,6 @@ In this notebook, I tackle the dataset presented in "Infrared Thermography for M
 
 The data can be found here https://archive.ics.uci.edu/dataset/925/infrared+thermography+temperature+dataset
 
+I predict oral temperature using readings from a two infrared theromography devices, and use this to predict fever.
+
 I achieved an F1 score of 0.807018 when predicting if subjects have fever or not.
